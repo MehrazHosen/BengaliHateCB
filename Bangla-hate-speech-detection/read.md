@@ -1,0 +1,7 @@
+References
+
+[6]	A. J. Keya, M. M. Kabir, N. J. Shammey, M. F. Mridha, M. R. Islam, and Y. Watanobe, “G-BERT: An efficient method for identifying hate speech in Bengali texts on social media,” IEEE Access, vol. 11, pp. 79697–79709, 2023.
+[7]	M. K. A. Aljero and N. Dimililer, “A novel stacked ensemble for hate speech recognition,” Appl. Sci. (Basel), vol. 11, no. 24, p. 11684, 2021.
+[8]	A. K. Das, A. A. Asif, A. Paul, and M. N. Hossain, “Bangla hate speech detection on social media using attention-based recurrent neural network,” arXiv [cs.CL], 2022.
+[9]	M. Ibrahim, M. Torki, and N. El-Makky, “Imbalanced toxic comments classification using data augmentation and deep learning,” in 2018 17th IEEE International Conference on Machine Learning and Applications (ICMLA), 2018, pp. 875–878.
+[10]	A. N. M. Jubaer, A. Sayem, and M. A. Rahman, “Bangla toxic comment classification (machine learning and deep learning approach),” in 2019 8th International Conference System Modeling and Advancement in Research Trends (SMART), 2019, pp. 62–66.
