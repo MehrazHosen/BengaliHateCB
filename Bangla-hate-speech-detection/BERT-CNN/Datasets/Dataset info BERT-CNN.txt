@@ -1,1 +1,8 @@
+About Dataset
 
+BD-SHS: A Benchmark Dataset for Learning to Detect Online Bangla Hate Speech in Different Social Contexts
+HS= hate speech
+NH= not hate speech
+ind= Individual
+
+Link: https://www.kaggle.com/datasets/naurosromim/bdshs
