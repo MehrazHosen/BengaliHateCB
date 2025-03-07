@@ -1,17 +1,14 @@
-# CSE-478-Fall-2023
-This is a repository of Neural Network and Fuzzy System Lab
+# Published Paper: BengaliHateCB: A Hybrid Deep Learning Model to Identify Bengali Hate Speech Detection from Online Platform
 
 # Name: Md Mehraz Hosen
 
-Id: 19202103122
+Student ID: 19202103122
 
-Intake: 44
+ B.Sc. Engg. in Computer Science and Engineering
 
-Section: 03
+ Bangladesh University of Business and Technology (BUBT)
 
 # Course Teacher: Khan Md Hasib
-
-# Published Paper: BengaliHateCB: A Hybrid Deep Learning Model to Identify Bengali Hate Speech Detection from Online Platform
 
 Published in: 2024 6th International Conference on Electrical Engineering and Information & Communication Technology (ICEEICT)
 
